@@ -1,0 +1,9 @@
+Project #1 - Text2Image - The first project towards the rest
+
+Members: Olavo, Pedro, Luiz
+
+The idea here is to cryptograph text inside images (creating one or inserting the information inside a default image)
+
+PS: Other ideas is to use neural networks as criptography keys, to do the opposite (Img2Txt) followed by a training part and use Generative Models to create new images, text2gifs, text2videos
+
+To do:
